@@ -1,0 +1,4 @@
+﻿  烤山药.cpp
+D:\C-- project\线性表\线性表\烤山药.cpp(7,1): warning C4005: “OVERFLOW”: 宏重定义
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967): message : 参见“OVERFLOW”的前一个定义
+  线性表.vcxproj -> D:\C-- project\线性表\x64\Debug\线性表.exe
